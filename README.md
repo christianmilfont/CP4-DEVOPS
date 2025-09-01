@@ -19,7 +19,7 @@ O objetivo principal deste projeto é demonstrar a orquestração de containers 
 
    Navegue ate a pasta do projeto
 ```
-   cd dimdim-compose
+   cd CP4-DEVOPS
 ```
 
    Execute o Docker Compose
