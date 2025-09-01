@@ -1,4 +1,5 @@
 # Projeto DevOps - Checkpoint 4 (Segundo Semestre)
+# ** README COMPLETO DA APLICAÇÃO MAIS DETALHES DENTRO DA PASTA DIMDIM DESSE REPO ** 
 
 ## Descrição
 Aplicação Java com Spring Boot para gerenciamento de transações, utilizando **MySQL** como banco de dados.  
